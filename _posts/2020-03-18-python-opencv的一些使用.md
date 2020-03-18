@@ -12,13 +12,13 @@ tags:
 ---
 
 ## 安装opencv
+
 在anaconda里面搜索opencv模块安装
 
 ## 使用opencv模块
+
     import cv2  # 导入opencv模块，注意是cv2
     img = cv2.imread("D:\\img.jpg")  # 读取D:\img.jpg
     cv2.imshow("demo", img)  # 将img以demo窗口名展示
     cv2.waitKey()  # 如果无输入则窗口一直存在
     cv2.destroyWindow("demo")  # 关闭demo窗口
-
-    
