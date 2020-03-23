@@ -7,8 +7,8 @@ author: zz
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    -python
-    -opencv
+    - python
+    - opencv
 ---
 
 ## 安装opencv
