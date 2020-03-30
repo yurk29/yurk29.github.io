@@ -16,7 +16,7 @@ head-img: img/post-bg-debug.png
 
 1. 打开GoLand的安装目录下的`/bin/idea.properties`
 改成下图,保存
-![alt 图]()
+![alt 图](https://raw.githubusercontent.com/yurk29/yurk29.github.io/master/img/GoLand_shortcut.png)
 
 2. 把原来在cpj的`.GoLand2019.2`文件夹移动到上一步中的目录中
 
